@@ -5,7 +5,7 @@ description: technical writing, user research
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-### Technical Writer - ThoughtSpot, Inc., San Francisco  
+### Technical Writer - ThoughtSpot, Inc., Palo Alto  
 
 **November 2017 - present**
 
