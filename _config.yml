@@ -1,5 +1,8 @@
 site: Victoria Bialas Blog and Portfolio
 
+# Google Analytics
+google_analytics: UA-132558671-1
+
 collections:
   pages:
     output: true
