@@ -22,11 +22,12 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **October 2015 - November 2017**
 
-* Wrote user/developer guides for [Docker for Mac](https://docs.docker.com/docker-for-mac/), [Docker for Windows](https://docs.docker.com/docker-for-windows/), [Compose](https://docs.docker.com/compose/overview/), [Machine](https://docs.docker.com/machine/overview/), [Kitematic](https://docs.docker.com/kitematic/userguide/), [Store](https://hub.docker.com/editions/community/docker-ce-desktop-mac), and [Cloud](https://docs.docker.com/v1.13/docker-cloud/) (AWS, Digital Ocean, Azure)
+* Wrote user/developer guides for [Docker for Mac](https://docs.docker.com/docker-for-mac/) (from scratch), [Docker for Windows](https://docs.docker.com/docker-for-windows/) (from scratch), [Compose](https://docs.docker.com/compose/overview/), [Machine](https://docs.docker.com/machine/overview/), [Kitematic](https://docs.docker.com/kitematic/userguide/), [Docker Toolbox](https://docs.docker.com/toolbox/overview/), [Store (d4mac)](https://hub.docker.com/editions/community/docker-ce-desktop-mac), [Store (d4win)](https://hub.docker.com/editions/community/docker-ce-desktop-windows) and [Cloud](https://docs.docker.com/v1.13/docker-cloud/) (AWS, Digital Ocean, Azure)
 * Helped with text and labels for UIs, and modified content in localization files
 * Built Docker for Mac product on local system from Go codebase using XCode IDE
 * Wrote documentation in Markdown, and built with GitHub/Docker/Hugo toolchain, later Jekyll
 * Coordinated documentation topics with training and samples developers
+* Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams including usability testing of prototypes.
 
 ### Technical Writer - Palantir Technologies, Palo Alto
 
