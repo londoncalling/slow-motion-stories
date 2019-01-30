@@ -27,7 +27,7 @@ featured_image: /images/demo/demo-landscape.jpg
 * Built Docker for Mac product on local system from Go codebase using XCode IDE
 * Wrote documentation in Markdown, and built with GitHub/Docker/Hugo toolchain, later Jekyll
 * Coordinated documentation topics with training and samples developers
-* Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams including usability testing of prototypes.
+* Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams and helping usability test prototypes.
 
 ### Technical Writer - Palantir Technologies, Palo Alto
 
