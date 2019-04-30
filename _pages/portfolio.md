@@ -5,6 +5,13 @@ description: technical writing, user research
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
+### Technical Writer - Confluent, Inc., Palo Alto  
+
+**February 2019 - present**
+
+- Writer on [Confluent documentation](https://docs.confluent.io/current/) for Schema Registry, Replicator, and Streams
+- Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
+
 ### Technical Writer - ThoughtSpot, Inc., Palo Alto  
 
 **November 2017 - present**
