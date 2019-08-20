@@ -5,7 +5,7 @@ description: rowing, swimming, coaching
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/me-coxswain.jpg)
+<img align="right" src="images/me-coxswain.jpg">
 
 ### Rowing
 
