@@ -30,8 +30,8 @@ featured_image: /images/demo/demo-landscape.jpg
 Strong background in competitive swimming (age group, high school), including:
 
 - Competed in three US summer nationals and a US Olympic Trials (all required making qualifying time standards), best events distance freestyle and 200m butterfly
-- Held an age group national record (9-10 yr olds) in 110 yd butterfly 
-- Texas High School State champion, 110yd butterfly
+- Held an age group national record (9-10 yr olds) in 110 yd butterfly, and ranked top 10 in the US in several age group events at various times
+- Texas High School State champion, 100 yd butterfly
 - Won honors and broke records in Mexico City in the annual Texas-Mexico swim competition
 - Swam for teams in Puerto Rico, London (Watford), Texas, and Southern California (LA Athletic Club, Rosemead Swimming Club), and competed internationally
 - Competed in open water swimming events (1 to 3 miles) as an age group swimmer and as an adult
