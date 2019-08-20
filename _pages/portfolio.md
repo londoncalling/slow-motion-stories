@@ -9,8 +9,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **February 2019 - present**
 
-- Writer on [Confluent documentation](https://docs.confluent.io/current/) for Schema Registry, Replicator, and Streams
+- Writer on [Confluent documentation](https://docs.confluent.io/current/) for [Schema Registry](https://docs.confluent.io/current/schema-registry/index.html), [Replicator](https://docs.confluent.io/current/multi-dc-replicator/index.html), and [Streams](https://docs.confluent.io/current/streams/index.html)
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
+- Contribute illustrations on the Confluent documentation
 
 ### Technical Writer - ThoughtSpot, Inc., Palo Alto  
 
