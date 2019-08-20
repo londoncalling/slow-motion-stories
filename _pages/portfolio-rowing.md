@@ -33,7 +33,6 @@ Strong background in competitive swimming (age group, high school), including:
 - Texas High School State champion, 110yd butterfly
 - Won honors and broke records in Mexico City in the annual Texas-Mexico swim competition
 - Swam for teams in Puerto Rico, London (Watford), Texas, and Southern California (LA Athletic Club, Rosemead Swimming Club), and competed internationally
-
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
 
