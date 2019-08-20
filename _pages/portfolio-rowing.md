@@ -8,7 +8,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Rowing
 
-- Learned to row as a Masters rower at Bair Island Aquatic Center (BIAC), starting with a Learn to Row in the summer of 2010
+- Learned to row as a Masters rower at [Bair Island Aquatic Center (BIAC)](https://gobair.org/), starting with a Learn to Row in the summer of 2010
 - Rowed on BIAC Novice, Intermediate, and Competitive teams (2010 - 2015), competing in all boat classes (1x, 2x, 4+, 8+) at local and national regattas including Southwest Regionals, San Diego Crew Classic, Head of the Lake (Seattle, WA), and Masters Nationals
 - Have competed at Head of the Charles in the 1x every year since 2015
 - Coxing experience in practices and Masters regattas including local regattas (California) and Head of the Lake 
@@ -17,6 +17,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 - Participated in Mike Sullivan's 1/2 day workshop on teaching sculling to beginners, 2012
 - Taught sculling basics to beginners at BIAC, ~ 2012 - 2013 on an ad hoc basis to assist Mike Sullivan
+- Provided stroke technique help, tours of the channel, and club introductions for new members and experienced sweep rowers learning sculling
 
 ### Certifications and Training 
 
