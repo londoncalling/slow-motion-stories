@@ -27,8 +27,6 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Swimming and Triathlon
 
-Strong background in competitive swimming (age group, high school), including:
-
 - Competed in three US summer nationals and a US Olympic Trials (all required making qualifying time standards), best events distance freestyle and butterfly
 - Held an age group national record (9-10 yr olds) in 110 yd butterfly, and ranked top 10 in the US in several age group events at various times
 - Texas high school state champion, 100 yd butterfly
