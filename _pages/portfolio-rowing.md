@@ -10,7 +10,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 - Learned to row as a Masters rower at [Bair Island Aquatic Center (BIAC)](https://gobair.org/), starting with a Learn to Row in the summer of 2010
 - Rowed on BIAC Novice, Intermediate, and Competitive teams (2010 - 2015), competing in all boat classes (1x, 2x, 2-, 4+, 8+) at local and national regattas including Southwest Regionals, [San Diego Crew Classic](https://crewclassic.org/), [Head of the Lake](http://lakewashingtonrowing.com/home/hotl/) (Seattle, WA), and Masters Nationals
-- Have competed at [Head of the Charles Regatta](https://www.hocr.org/) in the 1x since 2015, including winning guaranteed entries for 2017, 2019
+- Competed at [Head of the Charles Regatta](https://www.hocr.org/) in the 1x since 2015, including winning guaranteed entries for 2017, 2019
 - Coxing experience in practices and Masters regattas including local regattas (California) and Head of the Lake 
 - Head of the Charles volunteer on Finish Area Launch Setup (FALS) and Singles and Doubles docks
 
