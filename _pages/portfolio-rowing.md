@@ -18,7 +18,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 - Participated in Mike Sullivan's 1/2 day workshop on teaching sculling to beginners, 2012
 - Taught sculling basics to beginners at BIAC, ~ 2012 - 2013 on an ad hoc basis to assist Mike Sullivan
-- Provided stroke technique help, tours of the channel, and club introductions for new members and experienced sweep rowers learning sculling
+- Provided stroke technique help, tours of the channel, and club introductions for new members and experienced sweep rowers learning to scull
 
 ### Certifications and Training 
 
