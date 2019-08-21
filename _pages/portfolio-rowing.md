@@ -32,7 +32,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Texas high school state champion, 100 yd butterfly
 - Won honors and broke records in Mexico City in the annual Texas-Mexico swim competition
 - Swam for teams in Puerto Rico, London (Watford), Texas, and Southern California (LA Athletic Club, Rosemead Swimming Club), and competed internationally
-- Competed in open water swimming events (1 to 3 miles) as an age group swimmer and as an adult
+- Competed in open water swimming events (1 to 3 miles) as an age grouper, and later Masters
 - Competed in several sprint triathlons as an adult, along with some Masters swim meets
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
