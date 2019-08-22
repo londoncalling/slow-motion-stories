@@ -37,5 +37,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Demo'ed stroke technique for US Olympic coach [Don Gambril](https://en.wikipedia.org/wiki/Don_Gambril) at his request for a coaching clinic in San Antonio, Texas
 - Helped swimmers with stroke technique on an ad-hoc basis
 
+### Contact
 
+- Click LinkedIn button in footer or email: <a href="mailto:vicky.bialas@gmail.com">vicky.bialas@gmail.com</a> 
 
