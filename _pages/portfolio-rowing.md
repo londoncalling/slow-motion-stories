@@ -39,5 +39,5 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Contact
 
-- Click LinkedIn button in footer or send on email via the [Contact](contact-form.md) page.
+- Click LinkedIn button in footer, send email via the [Contact](contact.html) page, or directly to <font color="green">vicky.bialas@gmail.com</font>.
 
