@@ -39,5 +39,5 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Contact
 
-- Click LinkedIn button in footer or email: <a href="mailto:vicky.bialas@gmail.com">vicky.bialas@gmail.com</a> 
+- Click LinkedIn button in footer or send on email via the [Contact](contact.md) page.
 
