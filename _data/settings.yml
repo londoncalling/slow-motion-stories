@@ -18,6 +18,9 @@ menu_settings:
       url: '/portfolio'
     - title: 'Rowing Portfolio'
       url: '/portfolio-rowing'
+    - title: 'Contact'
+      url: '/contact'
+
 
 footer_settings:
   logo_image:
