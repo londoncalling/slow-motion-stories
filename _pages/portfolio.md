@@ -5,7 +5,7 @@ description: technical writing, user research
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-### Technical Writer - Confluent, Inc., Palo Alto  
+### Technical Writer - Confluent, Palo Alto  
 
 **February 2019 - present**
 
@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
 - Contribute illustrations on the Confluent documentation
 
-### Technical Writer - ThoughtSpot, Inc., Palo Alto  
+### Technical Writer - ThoughtSpot, Palo Alto  
 
 **November 2017 - present**
 
@@ -26,7 +26,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Script, produce, and publish short tutorial [videos](https://docs.thoughtspot.com/5.0/release/videos-list.html)
 - PM initiated customer visits to identify usability issues, feature requests, and ways of optimizing training
 
-### Technical Writer - Docker, Inc., San Francisco
+### Technical Writer - Docker, San Francisco
 
 **October 2015 - November 2017**
 
@@ -37,7 +37,7 @@ featured_image: /images/demo/demo-landscape.jpg
 * Coordinated documentation topics with training and samples developers
 * Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams and helping usability test prototypes.
 
-### Writer, UX Researcher - Palantir Technologies, Palo Alto
+### Writer, UX Researcher - Palantir, Palo Alto
 
 **July 2010 – September 2015**
 
@@ -51,7 +51,7 @@ featured_image: /images/demo/demo-landscape.jpg
 - Managed documentation build system, templates, integration points with internal tools and product builds, documentation web site publishing at release time, and related procedures and tracking on Wiki.
 - Managed Gotham Docs team for year of 2012.
 
-### Senior Technical Writer- ArcSight Inc., Cupertino
+### Senior Technical Writer- ArcSight, Cupertino
 
 **July 2006 – June 2010**
 
