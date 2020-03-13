@@ -1,5 +1,5 @@
 ---
-title: Rowing
+title: Rowing Portfolio
 description: rowing, swimming, coaching
 featured_image: /images/demo/demo-landscape.jpg
 ---

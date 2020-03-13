@@ -16,7 +16,7 @@ menu_settings:
       url: '/about'
     - title: 'Portfolio'
       url: '/portfolio'
-    - title: 'Rowing Portfolio'
+    - title: 'Rowing'
       url: '/portfolio-rowing'
     - title: 'Contact'
       url: '/contact'
