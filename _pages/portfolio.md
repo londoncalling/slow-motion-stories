@@ -98,6 +98,6 @@ and deliverable strategy.
 
 ### Education
 
-- B.A. in English, The University of Texas at Austin, (with coursework in journalism, sociology, anthropology, computer science, and drawing)
+- B.A. in English, The University of Texas at Austin, (with coursework in journalism, sociology, anthropology, computer science, art)
 - UCSC Extension and Foothill College (user centered design and research, C, Java, and education)
 - Udemy and other online courses on website development, data science, data visualization, and Apache Kafka
