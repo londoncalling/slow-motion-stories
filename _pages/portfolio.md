@@ -10,10 +10,11 @@ featured_image: /images/demo/demo-landscape.jpg
 **February 2019 - present**
 
 - Writer on [Confluent documentation](https://docs.confluent.io/current/) for several projects, including
-[Schema Registry](https://docs.confluent.io/current/schema-registry/index.html),
+[Schema Management](https://docs.confluent.io/current/schema-registry/index.html),
 [Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html),
 [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html),
 [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html),
+[Confluent REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html),
 and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
 - Contribute illustrations on the Confluent documentation
