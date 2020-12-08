@@ -102,6 +102,10 @@ and deliverable strategy.
 - Technical Writer – Tandem Computers, Austin, Texas 1994 - 1996
 - Technical Writer – Tivoli Systems, Austin, Texas 1994
 
+### Additional writing samples
+
+- [Snapshots: Aisha's Path to Rio](https://gobair.org/Aisha-Chow-Path-to-Rio#Snapshot_Rio)
+
 ### Education
 
 - B.A. in English, The University of Texas at Austin, (with coursework in journalism, sociology, anthropology, computer science, art)
