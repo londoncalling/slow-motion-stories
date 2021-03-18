@@ -16,10 +16,7 @@ featured_image: /images/demo/demo-landscape.jpg
 [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html),
 [Confluent REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html),
 [Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest),
-and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html). Also the writer on these Cloud topics:
-[Manage Schemas on Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html),
-[Quick Start for Schemas on Cloud](https://docs.confluent.io/cloud/current/get-started/schema-registry.html),
-[Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html) (will expand to cover Data Governance).
+and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html)
 
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
 - Contribute illustrations on the Confluent documentation
