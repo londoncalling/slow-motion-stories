@@ -9,9 +9,9 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **February 2019 - present**
 
-- Writer on several product lines and features, including [Schema Management](https://docs.confluent.io/current/schema-registry/index.html), [Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html), [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html), [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html), [Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest), and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html), [Manage Schemas on Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html), [Quick Start for Schemas on Cloud](https://docs.confluent.io/cloud/current/get-started/schema-registry.html), and [Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html)
-
-- Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website, and illustrations on the Confluent documentation
+- Writer on several product lines and features, including [Schema Management](https://docs.confluent.io/current/schema-registry/index.html), [Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html), [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html), [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html), [Admin REST APIs](https://github.com/confluentinc/demo-scene/tree/master/adminrest), and [Kaka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
+- Writer on these emerging Cloud features: [Schema Management on Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html), [Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html), and Data Governance.
+- Contribute to [Apache Kafka](https://kafka.apache.org/) open source documentation, and provide illustrations on some Confluent documentation.
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
