@@ -9,13 +9,18 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **February 2019 - present**
 
-- Writer on [Confluent documentation](https://docs.confluent.io/current/) for several projects, including
+- Writer on [Confluent Platform documentation](https://docs.confluent.io/current/) for several projects, including
 [Schema Management](https://docs.confluent.io/current/schema-registry/index.html),
 [Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html),
 [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html),
 [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html),
 [Confluent REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html),
-and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
+[Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest),
+and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html). Also the writer on these Cloud topics:
+[Manage Schemas on Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html),
+[Quick Start for Schemas on Cloud](https://docs.confluent.io/cloud/current/get-started/schema-registry.html),
+[Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html) (will expand to cover Data Governance).
+
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
 - Contribute illustrations on the Confluent documentation
 
@@ -43,12 +48,13 @@ and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html).
 * Coordinated documentation topics with training and samples developers
 * Docker for Mac and Windows have more than 1M active users to date, and have become the 2nd monetized product at Docker with Docker Desktop Enterprise. I designed and wrote the documentation from scratch as products were in initial development, working closely with design and development teams and helping usability test prototypes.
 
-### Writer, UX Researcher - Palantir, Palo Alto
+### Technical Writer, Docs Manager, UX Researcher - Palantir, Palo Alto
 
 **July 2010 – September 2015**
 
 - (_UX Researcher_) Conducted interviews, focus groups, and usability tests at various phases of the product life cycle for both product discovery and design research objectives. Video/audio record and extract film clips for reports.
 - (_UX Researcher_) Wrote usability recommendations and blog posts to communicate research findings.
+- (_Docs Team Manager_)Managed the Gotham documentation team of 6-10 writers and interns approximately two years
 - Wrote Help guides for data analysis platform, including analytical graphs for discovering relationships among objects, charts and histograms for large data sets, community tools for team-based research, mobile and video apps.
 - Contributed to administration guides for topics on both GUIs and CLIs
 - Installed, configured, and maintained my own platform instance, including multiple servers running locally and remotely, along with desktop and mobile clients.
