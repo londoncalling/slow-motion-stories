@@ -24,7 +24,7 @@ featured_image: /images/demo/demo-landscape.jpg
 ### Certifications and Training 
 
 - [USRowing Level II Coaching Certification](http://www.usrowing.org/coaching-education-program/) (2018)
-- Attended [Joy of Sculling Conference, 2018](http://www.thejoyofsculling.com/) (and plan to attend in 2019) - A coaching conference that, despite the name, covers both sweep and sculling, and hosts elite coaches and researchers. Last years' presenters, for example, included coaches from Harvard and Penn, and [Voelker Nolte](http://www.worldrowing.com/athletes/athlete/7978/nolte-volker), coach, rower, researcher, and author of the classic, [Rowing Faster](https://books.google.com/books/about/Rowing_Faster.html?id=-wmLeDL0MbAC)
+- Attended [Joy of Sculling Conference, 2018](http://www.thejoyofsculling.com/) - A coaching conference that, despite the name, covers both sweep and sculling, and hosts elite coaches and researchers. Last years' presenters, for example, included coaches from Harvard and Penn, and [Voelker Nolte](http://www.worldrowing.com/athletes/athlete/7978/nolte-volker), coach, rower, researcher, and author of the classic, [Rowing Faster](https://books.google.com/books/about/Rowing_Faster.html?id=-wmLeDL0MbAC)
 
 ### Swimming and Triathlon
 
