@@ -17,13 +17,14 @@ Writer on several product lines and features on Confluent Platform documentation
 - [Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest)
 - [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html) (a topic I formulated to fill some gaps in our docs)
 
-Writer on these Conluent Cloud topics:
+Writer on these Confluent Cloud topics:
 - [Manage Schemas on Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html)
 - [Quick Start for Schemas on Cloud](https://docs.confluent.io/cloud/current/get-started/schema-registry.html)
-- [Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html) (will expand to cover Data Governance).
+- [Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html)
 
-- Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
-- Contribute illustrations on the Confluent documentation
+Contribute to:
+- [Apache Kafka](https://kafka.apache.org/) documentation and website
+- illustrations on the Confluent documentation
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
