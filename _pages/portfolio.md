@@ -9,14 +9,18 @@ featured_image: /images/demo/demo-landscape.jpg
 
 **February 2019 - present**
 
-- Writer on [Confluent Platform documentation](https://docs.confluent.io/current/) for several projects, including
-[Schema Management](https://docs.confluent.io/current/schema-registry/index.html),
-[Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html),
-[Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html),
-[Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html),
-[Confluent REST APIs](https://docs.confluent.io/platform/current/kafka-rest/index.html),
-[Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest),
-and [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html)
+Writer on several product lines and features on Confluent Platform documentation including:
+- [Schema Management](https://docs.confluent.io/current/schema-registry/index.html)
+- [Cluster Linking](https://docs.confluent.io/current/multi-dc-deployments/cluster-linking/index.html)
+- [Replicator](https://docs.confluent.io/current/multi-dc-deployments/replicator/replicator-quickstart.html)
+- [Self-Balancing Clusters](https://docs.confluent.io/current/kafka/sbc/index.html)
+- [Conluent Admin REST APIs demo](https://github.com/confluentinc/demo-scene/tree/master/adminrest)
+- [Kafka Basics](https://docs.confluent.io/current/kafka/kafka-basics.html) (a topic I formulated to fill some gaps in our docs)
+
+Writer on these Conluent Cloud topics:
+- [Manage Schemas on Confluent Cloud](https://docs.confluent.io/cloud/current/client-apps/schemas-manage.html)
+- [Quick Start for Schemas on Cloud](https://docs.confluent.io/cloud/current/get-started/schema-registry.html)
+- [Explore Data Lineage](https://docs.confluent.io/cloud/current/data-governance/index.html) (will expand to cover Data Governance).
 
 - Contribute to [Apache Kafka](https://kafka.apache.org/) documentation and website
 - Contribute illustrations on the Confluent documentation
