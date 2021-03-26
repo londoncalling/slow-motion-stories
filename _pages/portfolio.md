@@ -15,7 +15,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ### Technical Writer - ThoughtSpot, Palo Alto  
 
-**November 2017 - present**
+**November 2017 - February 2019**
 
 - Manage the documentation and build infrastructure for [docs.thoughtspot.com](https://docs.thoughtspot.com/), onboard/train new writers on Git, GitHub, Jekyll, Markdown, and our specific workflows for documentation
 - Write new and updated documentation topics, including [Using Custom R Scripts in ThoughtSpot](https://docs.thoughtspot.com/5.0/end-user/r-scripts/about-r-in-thoughtspot.html), [how to run ThoughtSpot on VM and cloud platforms](https://docs.thoughtspot.com/5.0/appliance/welcome-intro.html), downloads and setup of supported [drivers](https://docs.thoughtspot.com/5.0/data-integrate/introduction/introduction-data-integration.html) for database connectivity, search bar [keyword reference](https://docs.thoughtspot.com/5.0/reference/keywords.html) (including publishing keyword translations in several languages with include files), [formulas](https://docs.thoughtspot.com/5.0/complex-search/add-formula-to-search.html) and [formulas reference](https://docs.thoughtspot.com/5.0/reference/formula-reference.html), experiment with new dataset samples for topics such as [SpotIQ](https://docs.thoughtspot.com/5.0/spotiq/whatisspotiq.html), and much more.
